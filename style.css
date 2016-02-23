@@ -1,0 +1,18 @@
+.header-tinggiin-dikit {
+  height:200px !important;
+}
+
+thead {
+  background:grey !important;
+  color: white !important;
+}
+
+.kurang-kiri {
+  margin-right:50px !important;
+}
+
+.menu-atas {
+  margin-top:10px;
+  margin-right:20px;
+  margin-left:20px;
+}
